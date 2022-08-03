@@ -21,7 +21,7 @@ msgstr ""
 #. Description
 #: ../ubiquity.templates:3001
 msgid "Preparing ubuntu-drivers..."
-msgstr "Bereite Linux Mint-Treiber vor …"
+msgstr "Linux-Mint-Treiber werden vorbereitet …"
 
 #. Type: text
 #. Description
